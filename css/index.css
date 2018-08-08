@@ -1,5 +1,8 @@
-section{
+/* section{
     background: #fff!important;
+} */
+section{
+    background:url('/media/20180808151345.jpg');
 }
 div,p,ul,ol,li{margin:0;padding:0;}
 /* 默认 */
