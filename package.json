@@ -1,7 +1,7 @@
 {
   "name": "jQuery-tutorial",
   "version": "0.0.1",
-  "description": "",
+  "description": "jQuery 笔记",
   "main": "index.html",
   "directories": {
     "doc": "docs"
@@ -10,16 +10,24 @@
     "docsify-cli": "^4.2.0"
   },
   "devDependencies": {},
+  "scripts": {
+    "start": "docsify serve ./ --port 5080"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhangxx1990/Html5.git"
+    "url": "https://github.com/zhangxx1990/jQuery.git"
   },
   "keywords": [
-    "jquery",
     "jQuery",
-    "jQuery"
+    "jQuery",
+    "tutorial",
+    "jQuery tutorial",
+    "jQuery tutoria"
   ],
-  "author": "",
+  "author": "zhangxiuxin.top",
   "license": "ISC",
-  "homepage": "https://github.com/zhangxx1990/Html5.git"
+  "bugs": {
+    "url": "https://github.com/zhangxx1990/jQuery.git"
+  },
+  "homepage": "https://github.com/zhangxx1990/jQuery.git"
 }
